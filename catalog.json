@@ -1,0 +1,752 @@
+[
+  {
+    "id": "trk_001",
+    "title": "Невидимка",
+    "artist": "001. ANNA TOLIKA",
+    "streamUrl": "https://github.com/MRLord001/snisago-music-vault/releases/download/v1.0.0/001_anna_tolika_nevidimka.mp3"
+  },
+  {
+    "id": "trk_002",
+    "title": "Привет",
+    "artist": "002. 5 Пятниц",
+    "streamUrl": "https://github.com/MRLord001/snisago-music-vault/releases/download/v1.0.0/002_5_pyatnits_privet.mp3"
+  },
+  {
+    "id": "trk_003",
+    "title": "Отражения",
+    "artist": "003. AARPI",
+    "streamUrl": "https://github.com/MRLord001/snisago-music-vault/releases/download/v1.0.0/003_aarpi_otrazheniya.mp3"
+  },
+  {
+    "id": "trk_004",
+    "title": "Красивая",
+    "artist": "004. ABRAG",
+    "streamUrl": "https://github.com/MRLord001/snisago-music-vault/releases/download/v1.0.0/004_abrag_krasivaya.mp3"
+  },
+  {
+    "id": "trk_005",
+    "title": "Гой",
+    "artist": "005. Adecvat_production",
+    "streamUrl": "https://github.com/MRLord001/snisago-music-vault/releases/download/v1.0.0/005_adecvat_production_goy.mp3"
+  },
+  {
+    "id": "trk_006",
+    "title": "Табак",
+    "artist": "006. ADRONRAY & ДВОРЕЦКОВ",
+    "streamUrl": "https://github.com/MRLord001/snisago-music-vault/releases/download/v1.0.0/006_adronray_dvoretskov_tabak.mp3"
+  },
+  {
+    "id": "trk_007",
+    "title": "Легенда",
+    "artist": "007. Akizzen & Kaioshi",
+    "streamUrl": "https://github.com/MRLord001/snisago-music-vault/releases/download/v1.0.0/007_akizzen_kaioshi_legenda.mp3"
+  },
+  {
+    "id": "trk_008",
+    "title": "Запросы",
+    "artist": "008. Alexbo",
+    "streamUrl": "https://github.com/MRLord001/snisago-music-vault/releases/download/v1.0.0/008_alexbo_zaprosy.mp3"
+  },
+  {
+    "id": "trk_009",
+    "title": "Killer, Baby",
+    "artist": "009. Alfie Castley",
+    "streamUrl": "https://github.com/MRLord001/snisago-music-vault/releases/download/v1.0.0/009_alfie_castley_killer_baby.mp3"
+  },
+  {
+    "id": "trk_010",
+    "title": "Строгий",
+    "artist": "010. ANDRE KAV & Murovei",
+    "streamUrl": "https://github.com/MRLord001/snisago-music-vault/releases/download/v1.0.0/010_andre_kav_murovei_strogiy.mp3"
+  },
+  {
+    "id": "trk_011",
+    "title": "Приходи ко мне",
+    "artist": "011. 1fold",
+    "streamUrl": "https://github.com/MRLord001/snisago-music-vault/releases/download/v1.0.0/011_1fold_prikhodi_ko_mne.mp3"
+  },
+  {
+    "id": "trk_012",
+    "title": "Авансом",
+    "artist": "012. AntonDevik",
+    "streamUrl": "https://github.com/MRLord001/snisago-music-vault/releases/download/v1.0.0/012_antondevik_avansom.mp3"
+  },
+  {
+    "id": "trk_013",
+    "title": "Дура",
+    "artist": "013. AnufriEva",
+    "streamUrl": "https://github.com/MRLord001/snisago-music-vault/releases/download/v1.0.0/013_anufrieva_dura.mp3"
+  },
+  {
+    "id": "trk_014",
+    "title": "Для тебя",
+    "artist": "014. ARISTOCRAT",
+    "streamUrl": "https://github.com/MRLord001/snisago-music-vault/releases/download/v1.0.0/014_aristocrat_dlya_tebya.mp3"
+  },
+  {
+    "id": "trk_015",
+    "title": "Снежная",
+    "artist": "015. ARS JALI",
+    "streamUrl": "https://github.com/MRLord001/snisago-music-vault/releases/download/v1.0.0/015_ars_jali_snezhnaya.mp3"
+  },
+  {
+    "id": "trk_016",
+    "title": "Больно",
+    "artist": "016. Arseneva",
+    "streamUrl": "https://github.com/MRLord001/snisago-music-vault/releases/download/v1.0.0/016_arseneva_bolno.mp3"
+  },
+  {
+    "id": "trk_017",
+    "title": "Mi Amor (Original Mix)",
+    "artist": "017. ARTBAT & 7 SKIES & Sadie Rose Van",
+    "streamUrl": "https://github.com/MRLord001/snisago-music-vault/releases/download/v1.0.0/017_artbat_7_skies_sadie_rose_van_mi_amor_original_mix.mp3"
+  },
+  {
+    "id": "trk_018",
+    "title": "Снова ты мне снишься (Remix Slowed)",
+    "artist": "018. Asenssia & Akada",
+    "streamUrl": "https://github.com/MRLord001/snisago-music-vault/releases/download/v1.0.0/018_asenssia_akada_snova_ty_mne_snishsya_remix_slowed.mp3"
+  },
+  {
+    "id": "trk_019",
+    "title": "Твой трёп",
+    "artist": "019. Assshe & МУТКИ",
+    "streamUrl": "https://github.com/MRLord001/snisago-music-vault/releases/download/v1.0.0/019_assshe_mutki_tvoy_tryop.mp3"
+  },
+  {
+    "id": "trk_020",
+    "title": "Атомное Сердце",
+    "artist": "020. AVTN",
+    "streamUrl": "https://github.com/MRLord001/snisago-music-vault/releases/download/v1.0.0/020_avtn_atomnoe_serdtse.mp3"
+  },
+  {
+    "id": "trk_021",
+    "title": "Zaman (Remix)",
+    "artist": "021. Bakr & BALLER",
+    "streamUrl": "https://github.com/MRLord001/snisago-music-vault/releases/download/v1.0.0/021_bakr_baller_zaman_remix.mp3"
+  },
+  {
+    "id": "trk_022",
+    "title": "Ночной асфальт",
+    "artist": "022. Bazlab",
+    "streamUrl": "https://github.com/MRLord001/snisago-music-vault/releases/download/v1.0.0/022_bazlab_nochnoy_asfalt.mp3"
+  },
+  {
+    "id": "trk_023",
+    "title": "Ночь (Extended Mix)",
+    "artist": "023. BELOBOKA",
+    "streamUrl": "https://github.com/MRLord001/snisago-music-vault/releases/download/v1.0.0/023_beloboka_noch_extended_mix.mp3"
+  },
+  {
+    "id": "trk_024",
+    "title": "Летай",
+    "artist": "024. Black Cupro",
+    "streamUrl": "https://github.com/MRLord001/snisago-music-vault/releases/download/v1.0.0/024_black_cupro_letay.mp3"
+  },
+  {
+    "id": "trk_025",
+    "title": "Не Подведу Freestyle",
+    "artist": "025. Blockkid",
+    "streamUrl": "https://github.com/MRLord001/snisago-music-vault/releases/download/v1.0.0/025_blockkid_ne_podvedu_freestyle.mp3"
+  },
+  {
+    "id": "trk_026",
+    "title": "Текила-Любовь",
+    "artist": "026. BULAVA",
+    "streamUrl": "https://github.com/MRLord001/snisago-music-vault/releases/download/v1.0.0/026_bulava_tekila_lyubov.mp3"
+  },
+  {
+    "id": "trk_027",
+    "title": "Прости меня",
+    "artist": "027. CHAYKA",
+    "streamUrl": "https://github.com/MRLord001/snisago-music-vault/releases/download/v1.0.0/027_chayka_prosti_menya.mp3"
+  },
+  {
+    "id": "trk_028",
+    "title": "Снова дышишь",
+    "artist": "028. DIM",
+    "streamUrl": "https://github.com/MRLord001/snisago-music-vault/releases/download/v1.0.0/028_dim_snova_dyshish.mp3"
+  },
+  {
+    "id": "trk_029",
+    "title": "Он меня целует",
+    "artist": "029. DJ Prezzplay & Xsusha",
+    "streamUrl": "https://github.com/MRLord001/snisago-music-vault/releases/download/v1.0.0/029_dj_prezzplay_xsusha_on_menya_tseluet.mp3"
+  },
+  {
+    "id": "trk_030",
+    "title": "Heal Me",
+    "artist": "030. Duncan Laurence",
+    "streamUrl": "https://github.com/MRLord001/snisago-music-vault/releases/download/v1.0.0/030_duncan_laurence_heal_me.mp3"
+  },
+  {
+    "id": "trk_031",
+    "title": "Ты меня не забудешь",
+    "artist": "031. DZHABRAILOV",
+    "streamUrl": "https://github.com/MRLord001/snisago-music-vault/releases/download/v1.0.0/031_dzhabrailov_ty_menya_ne_zabudesh.mp3"
+  },
+  {
+    "id": "trk_032",
+    "title": "Лепесток",
+    "artist": "032. Dzhenis",
+    "streamUrl": "https://github.com/MRLord001/snisago-music-vault/releases/download/v1.0.0/032_dzhenis_lepestok.mp3"
+  },
+  {
+    "id": "trk_033",
+    "title": "Всего добьюсь",
+    "artist": "033. E'Baars",
+    "streamUrl": "https://github.com/MRLord001/snisago-music-vault/releases/download/v1.0.0/033_e_baars_vsego_dobyus.mp3"
+  },
+  {
+    "id": "trk_034",
+    "title": "Переболеть",
+    "artist": "034. ELMAN",
+    "streamUrl": "https://github.com/MRLord001/snisago-music-vault/releases/download/v1.0.0/034_elman_perebolet.mp3"
+  },
+  {
+    "id": "trk_035",
+    "title": "А вокруг туман",
+    "artist": "035. ENZRO",
+    "streamUrl": "https://github.com/MRLord001/snisago-music-vault/releases/download/v1.0.0/035_enzro_a_vokrug_tuman.mp3"
+  },
+  {
+    "id": "trk_036",
+    "title": "До утра",
+    "artist": "036. FEDGO",
+    "streamUrl": "https://github.com/MRLord001/snisago-music-vault/releases/download/v1.0.0/036_fedgo_do_utra.mp3"
+  },
+  {
+    "id": "trk_037",
+    "title": "Retro Mirage",
+    "artist": "037. Gabry Ponte & DJs From Mars & Damae",
+    "streamUrl": "https://github.com/MRLord001/snisago-music-vault/releases/download/v1.0.0/037_gabry_ponte_djs_from_mars_damae_retro_mirage.mp3"
+  },
+  {
+    "id": "trk_038",
+    "title": "Листочек",
+    "artist": "038. Gonopolsky",
+    "streamUrl": "https://github.com/MRLord001/snisago-music-vault/releases/download/v1.0.0/038_gonopolsky_listochek.mp3"
+  },
+  {
+    "id": "trk_039",
+    "title": "ACCELERANDO",
+    "artist": "039. Grimes & VADAKIN",
+    "streamUrl": "https://github.com/MRLord001/snisago-music-vault/releases/download/v1.0.0/039_grimes_vadakin_accelerando.mp3"
+  },
+  {
+    "id": "trk_040",
+    "title": "Нам не по пути",
+    "artist": "040. hamood",
+    "streamUrl": "https://github.com/MRLord001/snisago-music-vault/releases/download/v1.0.0/040_hamood_nam_ne_po_puti.mp3"
+  },
+  {
+    "id": "trk_041",
+    "title": "Алхимик",
+    "artist": "041. Horus",
+    "streamUrl": "https://github.com/MRLord001/snisago-music-vault/releases/download/v1.0.0/041_horus_alkhimik.mp3"
+  },
+  {
+    "id": "trk_042",
+    "title": "Голос из канавы",
+    "artist": "042. Horus",
+    "streamUrl": "https://github.com/MRLord001/snisago-music-vault/releases/download/v1.0.0/042_horus_golos_iz_kanavy.mp3"
+  },
+  {
+    "id": "trk_043",
+    "title": "Ловчий",
+    "artist": "043. Horus",
+    "streamUrl": "https://github.com/MRLord001/snisago-music-vault/releases/download/v1.0.0/043_horus_lovchiy.mp3"
+  },
+  {
+    "id": "trk_044",
+    "title": "Shimmy",
+    "artist": "044. HUGOS & INMYWHITEE",
+    "streamUrl": "https://github.com/MRLord001/snisago-music-vault/releases/download/v1.0.0/044_hugos_inmywhitee_shimmy.mp3"
+  },
+  {
+    "id": "trk_045",
+    "title": "По делам",
+    "artist": "045. INtellegent",
+    "streamUrl": "https://github.com/MRLord001/snisago-music-vault/releases/download/v1.0.0/045_intellegent_po_delam.mp3"
+  },
+  {
+    "id": "trk_046",
+    "title": "Давай любовь замутим",
+    "artist": "046. JANNA RAY & Вадим Наместников",
+    "streamUrl": "https://github.com/MRLord001/snisago-music-vault/releases/download/v1.0.0/046_janna_ray_vadim_namestnikov_davay_lyubov_zamutim.mp3"
+  },
+  {
+    "id": "trk_047",
+    "title": "Один ответ",
+    "artist": "047. Jeny Vesna",
+    "streamUrl": "https://github.com/MRLord001/snisago-music-vault/releases/download/v1.0.0/047_jeny_vesna_odin_otvet.mp3"
+  },
+  {
+    "id": "trk_048",
+    "title": "From Scratch",
+    "artist": "048. Jessica Baio",
+    "streamUrl": "https://github.com/MRLord001/snisago-music-vault/releases/download/v1.0.0/048_jessica_baio_from_scratch.mp3"
+  },
+  {
+    "id": "trk_049",
+    "title": "Flower In A Hurricane (Dj Dark Remix)",
+    "artist": "049. Justice",
+    "streamUrl": "https://github.com/MRLord001/snisago-music-vault/releases/download/v1.0.0/049_justice_flower_in_a_hurricane_dj_dark_remix.mp3"
+  },
+  {
+    "id": "trk_050",
+    "title": "Лечу к тебе",
+    "artist": "050. KATi",
+    "streamUrl": "https://github.com/MRLord001/snisago-music-vault/releases/download/v1.0.0/050_kati_lechu_k_tebe.mp3"
+  },
+  {
+    "id": "trk_051",
+    "title": "Не уходи",
+    "artist": "051. KEER",
+    "streamUrl": "https://github.com/MRLord001/snisago-music-vault/releases/download/v1.0.0/051_keer_ne_ukhodi.mp3"
+  },
+  {
+    "id": "trk_052",
+    "title": "Клик",
+    "artist": "052. KRYKE & 4DVD & GERZ",
+    "streamUrl": "https://github.com/MRLord001/snisago-music-vault/releases/download/v1.0.0/052_kryke_4dvd_gerz_klik.mp3"
+  },
+  {
+    "id": "trk_053",
+    "title": "Coming Home (Extended Mix)",
+    "artist": "053. KSHMR & RYOS",
+    "streamUrl": "https://github.com/MRLord001/snisago-music-vault/releases/download/v1.0.0/053_kshmr_ryos_coming_home_extended_mix.mp3"
+  },
+  {
+    "id": "trk_054",
+    "title": "8 Days A Week",
+    "artist": "054. Majestic & Sweet Female Attitude",
+    "streamUrl": "https://github.com/MRLord001/snisago-music-vault/releases/download/v1.0.0/054_majestic_sweet_female_attitude_8_days_a_week.mp3"
+  },
+  {
+    "id": "trk_055",
+    "title": "Сладкая булочка",
+    "artist": "055. Medkova",
+    "streamUrl": "https://github.com/MRLord001/snisago-music-vault/releases/download/v1.0.0/055_medkova_sladkaya_bulochka.mp3"
+  },
+  {
+    "id": "trk_056",
+    "title": "Без тебя",
+    "artist": "056. Netsignala & LEONOVA",
+    "streamUrl": "https://github.com/MRLord001/snisago-music-vault/releases/download/v1.0.0/056_netsignala_leonova_bez_tebya.mp3"
+  },
+  {
+    "id": "trk_057",
+    "title": "Помехи",
+    "artist": "057. NIKER",
+    "streamUrl": "https://github.com/MRLord001/snisago-music-vault/releases/download/v1.0.0/057_niker_pomekhi.mp3"
+  },
+  {
+    "id": "trk_058",
+    "title": "В холодной комнате",
+    "artist": "058. NIKKI",
+    "streamUrl": "https://github.com/MRLord001/snisago-music-vault/releases/download/v1.0.0/058_nikki_v_kholodnoy_komnate.mp3"
+  },
+  {
+    "id": "trk_059",
+    "title": "Июнь",
+    "artist": "059. OISEAU & PAPILLON & Январский блюз",
+    "streamUrl": "https://github.com/MRLord001/snisago-music-vault/releases/download/v1.0.0/059_oiseau_papillon_yanvarskiy_blyuz_iyun.mp3"
+  },
+  {
+    "id": "trk_060",
+    "title": "Листопадом",
+    "artist": "060. OLEG ЭГО & SEROVSKII & Дэнаро",
+    "streamUrl": "https://github.com/MRLord001/snisago-music-vault/releases/download/v1.0.0/060_oleg_ego_serovskii_denaro_listopadom.mp3"
+  },
+  {
+    "id": "trk_061",
+    "title": "Искры",
+    "artist": "061. Ozma & Avenax",
+    "streamUrl": "https://github.com/MRLord001/snisago-music-vault/releases/download/v1.0.0/061_ozma_avenax_iskry.mp3"
+  },
+  {
+    "id": "trk_062",
+    "title": "Maybe",
+    "artist": "062. PANAMAN",
+    "streamUrl": "https://github.com/MRLord001/snisago-music-vault/releases/download/v1.0.0/062_panaman_maybe.mp3"
+  },
+  {
+    "id": "trk_063",
+    "title": "Силуэт",
+    "artist": "063. PIZZA",
+    "streamUrl": "https://github.com/MRLord001/snisago-music-vault/releases/download/v1.0.0/063_pizza_siluet.mp3"
+  },
+  {
+    "id": "trk_064",
+    "title": "Шторм",
+    "artist": "064. Pritulenko",
+    "streamUrl": "https://github.com/MRLord001/snisago-music-vault/releases/download/v1.0.0/064_pritulenko_shtorm.mp3"
+  },
+  {
+    "id": "trk_065",
+    "title": "Меняю",
+    "artist": "065. Roma Ricci",
+    "streamUrl": "https://github.com/MRLord001/snisago-music-vault/releases/download/v1.0.0/065_roma_ricci_menyayu.mp3"
+  },
+  {
+    "id": "trk_066",
+    "title": "Голоса",
+    "artist": "066. Sevak",
+    "streamUrl": "https://github.com/MRLord001/snisago-music-vault/releases/download/v1.0.0/066_sevak_golosa.mp3"
+  },
+  {
+    "id": "trk_067",
+    "title": "Я не плачу",
+    "artist": "067. Sharliz",
+    "streamUrl": "https://github.com/MRLord001/snisago-music-vault/releases/download/v1.0.0/067_sharliz_ya_ne_plachu.mp3"
+  },
+  {
+    "id": "trk_068",
+    "title": "Я не плачу 2.0",
+    "artist": "068. Sharliz & Чериган",
+    "streamUrl": "https://github.com/MRLord001/snisago-music-vault/releases/download/v1.0.0/068_sharliz_cherigan_ya_ne_plachu_2_0.mp3"
+  },
+  {
+    "id": "trk_069",
+    "title": "Черновики",
+    "artist": "069. solodanik",
+    "streamUrl": "https://github.com/MRLord001/snisago-music-vault/releases/download/v1.0.0/069_solodanik_chernoviki.mp3"
+  },
+  {
+    "id": "trk_070",
+    "title": "DOPAMINE",
+    "artist": "070. Striptiz Boys",
+    "streamUrl": "https://github.com/MRLord001/snisago-music-vault/releases/download/v1.0.0/070_striptiz_boys_dopamine.mp3"
+  },
+  {
+    "id": "trk_071",
+    "title": "Seasons",
+    "artist": "071. Suki Waterhouse",
+    "streamUrl": "https://github.com/MRLord001/snisago-music-vault/releases/download/v1.0.0/071_suki_waterhouse_seasons.mp3"
+  },
+  {
+    "id": "trk_072",
+    "title": "Девочка дождь",
+    "artist": "072. T1One",
+    "streamUrl": "https://github.com/MRLord001/snisago-music-vault/releases/download/v1.0.0/072_t1one_devochka_dozhd.mp3"
+  },
+  {
+    "id": "trk_073",
+    "title": "Зови меня Волком (OST Зови меня Волком)",
+    "artist": "073. Taverna & Сны Саламандры",
+    "streamUrl": "https://github.com/MRLord001/snisago-music-vault/releases/download/v1.0.0/073_taverna_sny_salamandry_zovi_menya_volkom_ost_zovi_menya_volkom.mp3"
+  },
+  {
+    "id": "trk_074",
+    "title": "Холод",
+    "artist": "074. tedday & LXE & Shipa",
+    "streamUrl": "https://github.com/MRLord001/snisago-music-vault/releases/download/v1.0.0/074_tedday_lxe_shipa_kholod.mp3"
+  },
+  {
+    "id": "trk_075",
+    "title": "Полоса",
+    "artist": "075. Uratsakidogi & Лёха Никонов",
+    "streamUrl": "https://github.com/MRLord001/snisago-music-vault/releases/download/v1.0.0/075_uratsakidogi_lyokha_nikonov_polosa.mp3"
+  },
+  {
+    "id": "trk_076",
+    "title": "Пара ярких глаз (Ставка на любовь)",
+    "artist": "076. VAVAN",
+    "streamUrl": "https://github.com/MRLord001/snisago-music-vault/releases/download/v1.0.0/076_vavan_para_yarkikh_glaz_stavka_na_lyubov.mp3"
+  },
+  {
+    "id": "trk_077",
+    "title": "Как раньше",
+    "artist": "077. Viki Show",
+    "streamUrl": "https://github.com/MRLord001/snisago-music-vault/releases/download/v1.0.0/077_viki_show_kak_ranshe.mp3"
+  },
+  {
+    "id": "trk_078",
+    "title": "Неспроста",
+    "artist": "078. YNNI",
+    "streamUrl": "https://github.com/MRLord001/snisago-music-vault/releases/download/v1.0.0/078_ynni_nesprosta.mp3"
+  },
+  {
+    "id": "trk_079",
+    "title": "Russian Girl",
+    "artist": "079. Айдамир Эльдаров",
+    "streamUrl": "https://github.com/MRLord001/snisago-music-vault/releases/download/v1.0.0/079_aydamir_eldarov_russian_girl.mp3"
+  },
+  {
+    "id": "trk_080",
+    "title": "Колосок",
+    "artist": "080. Александр Лонов & Воскресенский",
+    "streamUrl": "https://github.com/MRLord001/snisago-music-vault/releases/download/v1.0.0/080_aleksandr_lonov_voskresenskiy_kolosok.mp3"
+  },
+  {
+    "id": "trk_081",
+    "title": "Время быстро летит",
+    "artist": "081. Александр Юшкевич",
+    "streamUrl": "https://github.com/MRLord001/snisago-music-vault/releases/download/v1.0.0/081_aleksandr_yushkevich_vremya_bystro_letit.mp3"
+  },
+  {
+    "id": "trk_082",
+    "title": "Кураж",
+    "artist": "082. Алёна Апина",
+    "streamUrl": "https://github.com/MRLord001/snisago-music-vault/releases/download/v1.0.0/082_alyona_apina_kurazh.mp3"
+  },
+  {
+    "id": "trk_083",
+    "title": "Столик на двоих",
+    "artist": "083. Алёна Росс",
+    "streamUrl": "https://github.com/MRLord001/snisago-music-vault/releases/download/v1.0.0/083_alyona_ross_stolik_na_dvoikh.mp3"
+  },
+  {
+    "id": "trk_084",
+    "title": "Падаю (OST Гламурные девчонки)",
+    "artist": "084. Алиса Кожикина",
+    "streamUrl": "https://github.com/MRLord001/snisago-music-vault/releases/download/v1.0.0/084_alisa_kozhikina_padayu_ost_glamurnye_devchonki.mp3"
+  },
+  {
+    "id": "trk_085",
+    "title": "Танцуешь на поминках",
+    "artist": "085. АлСми",
+    "streamUrl": "https://github.com/MRLord001/snisago-music-vault/releases/download/v1.0.0/085_alsmi_tantsuesh_na_pominkakh.mp3"
+  },
+  {
+    "id": "trk_086",
+    "title": "Скелет (OST Айда!)",
+    "artist": "086. Антоха МС",
+    "streamUrl": "https://github.com/MRLord001/snisago-music-vault/releases/download/v1.0.0/086_antokha_ms_skelet_ost_ayda.mp3"
+  },
+  {
+    "id": "trk_087",
+    "title": "Малолетка",
+    "artist": "087. Вика Воронина",
+    "streamUrl": "https://github.com/MRLord001/snisago-music-vault/releases/download/v1.0.0/087_vika_voronina_maloletka.mp3"
+  },
+  {
+    "id": "trk_088",
+    "title": "Перелетная",
+    "artist": "088. Виктор Сорокин",
+    "streamUrl": "https://github.com/MRLord001/snisago-music-vault/releases/download/v1.0.0/088_viktor_sorokin_pereletnaya.mp3"
+  },
+  {
+    "id": "trk_089",
+    "title": "Ты лучшая на свете",
+    "artist": "089. Виталий Верт",
+    "streamUrl": "https://github.com/MRLord001/snisago-music-vault/releases/download/v1.0.0/089_vitaliy_vert_ty_luchshaya_na_svete.mp3"
+  },
+  {
+    "id": "trk_090",
+    "title": "ТОТОИВО",
+    "artist": "090. Восточный округ & Артем Тото",
+    "streamUrl": "https://github.com/MRLord001/snisago-music-vault/releases/download/v1.0.0/090_vostochnyy_okrug_artem_toto_totoivo.mp3"
+  },
+  {
+    "id": "trk_091",
+    "title": "Могну",
+    "artist": "091. Герман Титов",
+    "streamUrl": "https://github.com/MRLord001/snisago-music-vault/releases/download/v1.0.0/091_german_titov_mognu.mp3"
+  },
+  {
+    "id": "trk_092",
+    "title": "Никуда не деться",
+    "artist": "092. Глеб Калюжный",
+    "streamUrl": "https://github.com/MRLord001/snisago-music-vault/releases/download/v1.0.0/092_gleb_kalyuzhnyy_nikuda_ne_detsya.mp3"
+  },
+  {
+    "id": "trk_093",
+    "title": "Мобилка",
+    "artist": "093. Гудзон",
+    "streamUrl": "https://github.com/MRLord001/snisago-music-vault/releases/download/v1.0.0/093_gudzon_mobilka.mp3"
+  },
+  {
+    "id": "trk_094",
+    "title": "Камикадзе",
+    "artist": "094. Дима Пермяков",
+    "streamUrl": "https://github.com/MRLord001/snisago-music-vault/releases/download/v1.0.0/094_dima_permyakov_kamikadze.mp3"
+  },
+  {
+    "id": "trk_095",
+    "title": "Трудный возраст",
+    "artist": "095. Дора & ТРАВМА",
+    "streamUrl": "https://github.com/MRLord001/snisago-music-vault/releases/download/v1.0.0/095_dora_travma_trudnyy_vozrast.mp3"
+  },
+  {
+    "id": "trk_096",
+    "title": "Полночь",
+    "artist": "096. Ермак!",
+    "streamUrl": "https://github.com/MRLord001/snisago-music-vault/releases/download/v1.0.0/096_ermak_polnoch.mp3"
+  },
+  {
+    "id": "trk_097",
+    "title": "Кровь Горячая",
+    "artist": "097. КАЗАКИ ДЕЛАЮТ ХИТЫ",
+    "streamUrl": "https://github.com/MRLord001/snisago-music-vault/releases/download/v1.0.0/097_kazaki_delayut_khity_krov_goryachaya.mp3"
+  },
+  {
+    "id": "trk_098",
+    "title": "Тюльпаны-ромашки",
+    "artist": "098. Каштан",
+    "streamUrl": "https://github.com/MRLord001/snisago-music-vault/releases/download/v1.0.0/098_kashtan_tyulpany_romashki.mp3"
+  },
+  {
+    "id": "trk_099",
+    "title": "Не болит",
+    "artist": "099. Кирилл Туриченко",
+    "streamUrl": "https://github.com/MRLord001/snisago-music-vault/releases/download/v1.0.0/099_kirill_turichenko_ne_bolit.mp3"
+  },
+  {
+    "id": "trk_100",
+    "title": "Как Прохор Шаляпин",
+    "artist": "100. Кравц",
+    "streamUrl": "https://github.com/MRLord001/snisago-music-vault/releases/download/v1.0.0/100_kravts_kak_prokhor_shalyapin.mp3"
+  },
+  {
+    "id": "trk_101",
+    "title": "Не звони",
+    "artist": "101. Мактина",
+    "streamUrl": "https://github.com/MRLord001/snisago-music-vault/releases/download/v1.0.0/101_maktina_ne_zvoni.mp3"
+  },
+  {
+    "id": "trk_102",
+    "title": "Любимый",
+    "artist": "102. Марина Хлебникова",
+    "streamUrl": "https://github.com/MRLord001/snisago-music-vault/releases/download/v1.0.0/102_marina_khlebnikova_lyubimyy.mp3"
+  },
+  {
+    "id": "trk_103",
+    "title": "Забираем",
+    "artist": "103. Маша Шейх",
+    "streamUrl": "https://github.com/MRLord001/snisago-music-vault/releases/download/v1.0.0/103_masha_sheykh_zabiraem.mp3"
+  },
+  {
+    "id": "trk_104",
+    "title": "Темнота",
+    "artist": "104. МАЯК X",
+    "streamUrl": "https://github.com/MRLord001/snisago-music-vault/releases/download/v1.0.0/104_mayak_x_temnota.mp3"
+  },
+  {
+    "id": "trk_105",
+    "title": "Любовь не каршеринг",
+    "artist": "105. МОТ",
+    "streamUrl": "https://github.com/MRLord001/snisago-music-vault/releases/download/v1.0.0/105_mot_lyubov_ne_karshering.mp3"
+  },
+  {
+    "id": "trk_106",
+    "title": "Под Чайковского",
+    "artist": "106. Мураками",
+    "streamUrl": "https://github.com/MRLord001/snisago-music-vault/releases/download/v1.0.0/106_murakami_pod_chaykovskogo.mp3"
+  },
+  {
+    "id": "trk_107",
+    "title": "Детские голоса",
+    "artist": "107. Начитанный & Антиреспект",
+    "streamUrl": "https://github.com/MRLord001/snisago-music-vault/releases/download/v1.0.0/107_nachitannyy_antirespekt_detskie_golosa.mp3"
+  },
+  {
+    "id": "trk_108",
+    "title": "Минимум",
+    "artist": "108. НОЧАМИ",
+    "streamUrl": "https://github.com/MRLord001/snisago-music-vault/releases/download/v1.0.0/108_nochami_minimum.mp3"
+  },
+  {
+    "id": "trk_109",
+    "title": "Мне всё можно",
+    "artist": "109. Ольга Серябкина",
+    "streamUrl": "https://github.com/MRLord001/snisago-music-vault/releases/download/v1.0.0/109_olga_seryabkina_mne_vsyo_mozhno.mp3"
+  },
+  {
+    "id": "trk_110",
+    "title": "Где ты",
+    "artist": "110. Полина Крапива",
+    "streamUrl": "https://github.com/MRLord001/snisago-music-vault/releases/download/v1.0.0/110_polina_krapiva_gde_ty.mp3"
+  },
+  {
+    "id": "trk_111",
+    "title": "Шаг вперед",
+    "artist": "111. Родион Газманов",
+    "streamUrl": "https://github.com/MRLord001/snisago-music-vault/releases/download/v1.0.0/111_rodion_gazmanov_shag_vpered.mp3"
+  },
+  {
+    "id": "trk_112",
+    "title": "Патрон в патроннике",
+    "artist": "112. Рождество",
+    "streamUrl": "https://github.com/MRLord001/snisago-music-vault/releases/download/v1.0.0/112_rozhdestvo_patron_v_patronnike.mp3"
+  },
+  {
+    "id": "trk_113",
+    "title": "По дороге дней",
+    "artist": "113. Рок-острова & Евгений Маргулис",
+    "streamUrl": "https://github.com/MRLord001/snisago-music-vault/releases/download/v1.0.0/113_rok_ostrova_evgeniy_margulis_po_doroge_dney.mp3"
+  },
+  {
+    "id": "trk_114",
+    "title": "Имена",
+    "artist": "114. Роман Бестселлер",
+    "streamUrl": "https://github.com/MRLord001/snisago-music-vault/releases/download/v1.0.0/114_roman_bestseller_imena.mp3"
+  },
+  {
+    "id": "trk_115",
+    "title": "Образ твой",
+    "artist": "115. Сателлит",
+    "streamUrl": "https://github.com/MRLord001/snisago-music-vault/releases/download/v1.0.0/115_satellit_obraz_tvoy.mp3"
+  },
+  {
+    "id": "trk_116",
+    "title": "Ради тебя",
+    "artist": "116. Саша Санта & Анфеникса",
+    "streamUrl": "https://github.com/MRLord001/snisago-music-vault/releases/download/v1.0.0/116_sasha_santa_anfeniksa_radi_tebya.mp3"
+  },
+  {
+    "id": "trk_117",
+    "title": "Танцы на стеклах",
+    "artist": "117. Семетей",
+    "streamUrl": "https://github.com/MRLord001/snisago-music-vault/releases/download/v1.0.0/117_semetey_tantsy_na_steklakh.mp3"
+  },
+  {
+    "id": "trk_118",
+    "title": "Только ты и я",
+    "artist": "118. Слава Басюл",
+    "streamUrl": "https://github.com/MRLord001/snisago-music-vault/releases/download/v1.0.0/118_slava_basyul_tolko_ty_i_ya.mp3"
+  },
+  {
+    "id": "trk_119",
+    "title": "Таю (Vostok version)",
+    "artist": "119. Согдиана",
+    "streamUrl": "https://github.com/MRLord001/snisago-music-vault/releases/download/v1.0.0/119_sogdiana_tayu_vostok_version.mp3"
+  },
+  {
+    "id": "trk_120",
+    "title": "Ты у меня в душе",
+    "artist": "120. Стас Михайлов",
+    "streamUrl": "https://github.com/MRLord001/snisago-music-vault/releases/download/v1.0.0/120_stas_mikhaylov_ty_u_menya_v_dushe.mp3"
+  },
+  {
+    "id": "trk_121",
+    "title": "Туман",
+    "artist": "121. СТРЕЛКИН & Влад Balu",
+    "streamUrl": "https://github.com/MRLord001/snisago-music-vault/releases/download/v1.0.0/121_strelkin_vlad_balu_tuman.mp3"
+  },
+  {
+    "id": "trk_122",
+    "title": "Девочка-Пай",
+    "artist": "122. Так Надо & МАКСИ ГРИН & Влада Ушакова",
+    "streamUrl": "https://github.com/MRLord001/snisago-music-vault/releases/download/v1.0.0/122_tak_nado_maksi_grin_vlada_ushakova_devochka_pay.mp3"
+  },
+  {
+    "id": "trk_123",
+    "title": "Пылинки",
+    "artist": "123. ЧИНА",
+    "streamUrl": "https://github.com/MRLord001/snisago-music-vault/releases/download/v1.0.0/123_china_pylinki.mp3"
+  },
+  {
+    "id": "trk_124",
+    "title": "Berserker ((Bonus Track)",
+    "artist": "124.. Sabaton",
+    "streamUrl": "https://github.com/MRLord001/snisago-music-vault/releases/download/v1.0.0/124_sabaton_berserker_bonus_track.mp3"
+  },
+  {
+    "id": "trk_125",
+    "title": "Templars (feat. Pop Evil) (Bonus Track)",
+    "artist": "125. Sabaton",
+    "streamUrl": "https://github.com/MRLord001/snisago-music-vault/releases/download/v1.0.0/125_sabaton_templars_feat_pop_evil_bonus_track.mp3"
+  }
+]
